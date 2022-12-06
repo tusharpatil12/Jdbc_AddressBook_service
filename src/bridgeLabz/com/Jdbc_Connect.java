@@ -9,7 +9,7 @@ public class Jdbc_Connect {
 	public static void main(String[] args) {
 		String url = "jdbc:mysql://localhost:3306/addressbook";
 		String username = "root";
-		String password = "Aditya@120";
+		String password = "Tushar@123";
 
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
